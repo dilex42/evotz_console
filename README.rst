@@ -1,10 +1,12 @@
 EVOtz_consoleapp
-==========
+================
+
 EVOtz_consoleapp is a demo app for the EVO Summer Lab.
-Main task was to build app that can retrieve phone numbers from phonebook given first digits of a phone number.
+
+Main task was to build an app that can retrieve phone numbers from phonebook given first digits of a phone number.
 
 App capabilities
----------------
+----------------
 
 - Generate phone numbers to fill database.
 
@@ -17,10 +19,10 @@ Installing and Running
 
 Python 3.x and pytest are required.
 
- - git clone https://github.com/dilex42/evotz_console.git
+- git clone https://github.com/dilex42/evotz_console.git
 
- - cd evotz_console
+- cd evotz_console
 
- - python main.py
+- python main.py
 
- - For tests use py.test
+- For tests use py.test
